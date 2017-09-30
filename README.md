@@ -1,6 +1,8 @@
 Pokemon Showdown Development Bot
 ================================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/xfix/PSDevBot.svg)](https://greenkeeper.io/)
+
 This bot receives commit data from GitHub, and posts in the Showdown chat.
 
 It can be configured using `npm config set psdevbot:PROPERTY_NAME`. There are
